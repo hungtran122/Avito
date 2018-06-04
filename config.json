@@ -1,0 +1,23 @@
+{
+  "train_csv": "/home/deeplearning/Kaggle/avito/input/train.csv",
+  "test_csv": "/home/deeplearning/Kaggle/avito/input/test.csv",
+  "train_norm_csv": "/home/deeplearning/Kaggle/avito/input/train_norm.csv",
+  "test_norm_csv": "/home/deeplearning/Kaggle/avito/input/test_norm.csv",
+  "sample_submission": "/home/deeplearning/Kaggle/avito/input/sample_submission.csv",
+  "fasttext_vec": "/home/deeplearning/Kaggle/avito/input/Self-training-embeding_300/avito.w2v",
+  "extracted_features": "extracted_features",
+  "predict_root": "predict_root",
+  "word_embedding_size": 300,
+  "word_max_dict": 50000,
+  "word_input_size": 100,
+  "word_max_sent": 15,
+  "lr": 5e-3,
+  "epoch": 100,
+  "batch_size": 1024,
+  "embedding_size": 4,
+  "n_workers": 4,
+  "model_name": "keras_50k_d300_100w",
+  "patience": 5,
+  "n_fold": 0,
+  "resume": ""
+}
