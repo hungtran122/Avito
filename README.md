@@ -1,4 +1,3 @@
-*** Originated from https://github.com/ngxbac/Avito with great contribution of my teammate nxbac
 # 1. Overall
 This repository includes the code of the competition "_Avito Demand Prediction Challenge_" hosted by Kaggle.
 We built three models for this competition:
